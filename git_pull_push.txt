@@ -17,7 +17,6 @@ git add .
 <<<<<<< HEAD
 git commit -m "修复登录页面按钮样式问题"
 
-好像不行？？？？？？
-=======
-git commit -m "修复登录页面按钮样式问题"
->>>>>>> e642942590d4328857ef9b82f44d7ba5ed9d1560
+修改了一个设置，git：use editor input as stash message
+
+
